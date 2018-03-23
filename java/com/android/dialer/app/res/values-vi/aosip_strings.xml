@@ -26,6 +26,10 @@
     <string name="auto_call_recording_title">Ghi âm cuộc gọi tự động</string>
     <string name="call_via">Gọi bằng</string>
     <string name="call_via_dialog_title">Gọi bằng\u2026</string>
+    <!-- Full Screen Caller Photo -->
+    <string name="fullscreen_caller_photo_title">Ảnh toàn màn hình</string>
+    <string name="fullscreen_caller_photo_summary">Hiển thị ảnh toàn màn hình trong các cuộc gọi đến và đi</string>
+    <string name="fullscreen_caller_photo_message">Để sử dụng, bạn phải khởi động lại ứng dụng</string>
     <string name="call_log_stats_title">Thống kê</string>
     <string name="disable_proximity_sensor_title">Tắt cảm biến tiệm cận</string>
     <string name="disable_proximity_sensor_summary">Không tắt màn hình và hiện thị cuộc gọi khi sử dụng cảm biến tiệm cận</string>
