@@ -57,4 +57,8 @@
     <string name="auto_answer_delay_title">Độ trễ trả lời tự động</string>
     <string name="auto_answer_dialog_title">Độ trễ trả lời tự động trong (mili giây)</string>
     <string name="auto_answer_delay_summary">Trả lời tự động sẽ được kích hoạt trong <xliff:g id="number">%d</xliff:g> mili giây</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">Cử chỉ lật</string>
+    <string name="smart_mute_title">Tắt tiếng thông minh</string>
+    <string name="smart_mute_summary">Tắt tiếng cuộc gọi đến bằng cách lật thiết bị</string>
 </resources>
