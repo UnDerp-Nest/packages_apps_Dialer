@@ -20,9 +20,6 @@
     <string name="enable_post_call_title">Cuộc gọi dạng post snackbar</string>
     <string name="enable_post_call_summary">Bật thông báo cuộc gọi post ở cuối màn hình</string>
 
-    <string name="auto_call_recording_title">Ghi âm cuộc gọi tự động</string>
-    <string name="auto_call_recording_key" translatable="false">auto_call_recording</string>
-
     <!-- Proximity speaker -->
     <string name="speaker_settings_label">Cảm biến tiệm cận cho loa ngoài</string>
     <string name="prox_auto_speaker_title">Cảm biến tiệm cận tự động bật loa ngoài</string>
