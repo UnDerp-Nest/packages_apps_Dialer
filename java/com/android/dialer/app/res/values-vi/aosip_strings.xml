@@ -29,4 +29,27 @@
     <string name="disable_proximity_sensor_title">Tắt cảm biến tiệm cận</string>
     <string name="disable_proximity_sensor_summary">Không tắt màn hình và hiện thị cuộc gọi khi sử dụng cảm biến tiệm cận</string>
     <string name="sensor_settings_titile">Cảm biến</string>
+    <string name="other_settings_label">Các thiết lập khác</string>
+    <!-- Dialer postcall -->
+    <string name="enable_post_call_title">Cuộc gọi dạng post snackbar</string>
+    <string name="enable_post_call_summary">Bật thông báo cuộc gọi post ở cuối màn hình</string>
+    <!-- Proximity speaker -->
+    <string name="speaker_settings_label">Cảm biến tiệm cận cho loa ngoài</string>
+    <string name="prox_auto_speaker_title">Cảm biến tiệm cận tự động bật loa ngoài</string>
+    <string name="prox_auto_speaker_summary">Tự động bật loa ngoài khi điện thoại của bạn được lấy ra khỏi tai</string>
+    <string name="prox_auto_speaker_delay_title">Độ trễ loa ngoài</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Độ trễ loa ngoài trong (mili giây)</string>
+    <string name="prox_auto_speaker_delay_summary">Loa ngoài sẽ kích hoạt trong <xliff:g id="number">%d</xliff:g> mili giây</string>
+    <string name="prox_auto_speaker_incall_only_title">Chỉ trong khi gọi</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Trong các cuộc gọi đi, trình nghe bằng loa ngoài sẽ chỉ hoạt động sau khi bên nhận được câu trả lời</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Trình nghe bằng loa ngoài sẽ được kích hoạt trong tất cả các trạng thái cuộc gọi hook (mặc định)</string>
+    <!-- Proximity Auto Answer -->
+    <string name="prox_auto_answer_incall_only_title">Trả lời tự động</string>
+    <string name="prox_auto_answer_incall_only_summary">Sử dụng cảm biến tiệm cận để tự động trả lời</string>
+    <!-- BT Auto Answer -->
+    <string name="auto_answer_call_title">Trả lời tự động</string>
+    <string name="auto_answer_call_summary">Sử dụng tính năng tự động trả lời với tai nghe BT hoặc Wired được kết nối</string>
+    <string name="auto_answer_delay_title">Độ trễ trả lời tự động</string>
+    <string name="auto_answer_dialog_title">Độ trễ trả lời tự động trong (mili giây)</string>
+    <string name="auto_answer_delay_summary">Trả lời tự động sẽ được kích hoạt trong <xliff:g id="number">%d</xliff:g> mili giây</string>
 </resources>
